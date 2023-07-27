@@ -1,0 +1,15 @@
+/home/bw49078/coding-challenge/bin/Debug/net7.0/coding-challenge
+/home/bw49078/coding-challenge/bin/Debug/net7.0/coding-challenge.deps.json
+/home/bw49078/coding-challenge/bin/Debug/net7.0/coding-challenge.runtimeconfig.json
+/home/bw49078/coding-challenge/bin/Debug/net7.0/coding-challenge.dll
+/home/bw49078/coding-challenge/bin/Debug/net7.0/coding-challenge.pdb
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.csproj.AssemblyReference.cache
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.AssemblyInfoInputs.cache
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.AssemblyInfo.cs
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.csproj.CoreCompileInputs.cache
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.dll
+/home/bw49078/coding-challenge/obj/Debug/net7.0/refint/coding-challenge.dll
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.pdb
+/home/bw49078/coding-challenge/obj/Debug/net7.0/coding-challenge.genruntimeconfig.cache
+/home/bw49078/coding-challenge/obj/Debug/net7.0/ref/coding-challenge.dll
